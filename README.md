@@ -1,7 +1,7 @@
-# final_project
-Python course final dashboard
+# Vaccines and Child Mortality Dashboard
 
-# Measles Vaccine Coverage & Child Mortality (2000–2023) (Work in progress, do not share)
+
+# Measles Vaccine Coverage & Child Mortality (2000–2023)
 Author: Moudo Macina
 Project Type: Interactive Data Dashboard
 Tools: Quarto · Python · Plotly · pandas · Gapminder data
