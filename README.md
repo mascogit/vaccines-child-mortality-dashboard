@@ -1,10 +1,11 @@
 # Vaccines and Child Mortality Dashboard
 
 
-# Measles Vaccine Coverage & Child Mortality (2000–2023)
-Author: Moudo Macina
-Project Type: Interactive Data Dashboard
-Tools: Quarto · Python · Plotly · pandas · Gapminder data
+### Measles Vaccine Coverage & Under-Five Mortality (2000–2023)
+
+**Author:** Dr Moudo Macina  
+**Project type:** Applied Data Science & Interactive Dashboard  
+**Tools:** Python · Quarto · Plotly · pandas · Gapminder data
 
 # Overview
 This dashboard explores global trends in measles vaccine coverage (MCV1) and under-five child mortality between 2000 and 2023. It highlights how expanded immunization—especially in low-income settings—has driven substantial improvements in child survival.
